@@ -1,0 +1,13 @@
+1. Study performance:
+   - participant screening, enrollment, follow-up, EoS
+
+
+2. Laboratory indicator:
+   - positive by RDT
+   - positive by microscopy
+   - positive by PCR
+
+
+3. Supporting information:  
+   - rainfall data 
+   - temperature data
